@@ -1,0 +1,10 @@
+[
+  {
+    "booking_id": "B4SJIN2",
+    "event_id": "E034",
+    "username": "test",
+    "quantity": 2,
+    "total_price": 70.0,
+    "status": "active"
+  }
+]
