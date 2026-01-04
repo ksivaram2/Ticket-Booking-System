@@ -1,0 +1,17 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "790f48e3ba51e2d0762e7d4a74d4076a62cfb34d44e3dfbc43798fe9ff399602",
+    "role": "admin"
+  },
+  {
+    "username": "test",
+    "password_hash": "937e8d5fbb48bd4949536cd65b8d35c426b80d2f830c5c308e2cdec422ae2244",
+    "role": "user"
+  },
+  {
+    "username": "test2",
+    "password_hash": "937e8d5fbb48bd4949536cd65b8d35c426b80d2f830c5c308e2cdec422ae2244",
+    "role": "user"
+  }
+]

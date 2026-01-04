@@ -1,0 +1,362 @@
+[
+  {
+    "event_id": "E001",
+    "name": "Rock Night Live",
+    "date": "2026-03-10",
+    "venue": "Leicester Arena",
+    "capacity": 300,
+    "base_price": 45,
+    "category": "Music"
+  },
+  {
+    "event_id": "E002",
+    "name": "Jazz Evening",
+    "date": "2026-03-12",
+    "venue": "City Hall",
+    "capacity": 150,
+    "base_price": 35,
+    "category": "Music"
+  },
+  {
+    "event_id": "E003",
+    "name": "Indie Fest",
+    "date": "2026-03-15",
+    "venue": "Open Grounds",
+    "capacity": 500,
+    "base_price": 40,
+    "category": "Music"
+  },
+  {
+    "event_id": "E004",
+    "name": "EDM Blast",
+    "date": "2026-03-18",
+    "venue": "Arena Hall",
+    "capacity": 600,
+    "base_price": 55,
+    "category": "Music"
+  },
+  {
+    "event_id": "E005",
+    "name": "Classical Orchestra",
+    "date": "2026-03-20",
+    "venue": "Symphony Hall",
+    "capacity": 200,
+    "base_price": 60,
+    "category": "Music"
+  },
+  {
+    "event_id": "E006",
+    "name": "Acoustic Nights",
+    "date": "2026-03-22",
+    "venue": "Cafe Studio",
+    "capacity": 80,
+    "base_price": 20,
+    "category": "Music"
+  },
+  {
+    "event_id": "E007",
+    "name": "Pop Carnival",
+    "date": "2026-03-25",
+    "venue": "Stadium",
+    "capacity": 1000,
+    "base_price": 70,
+    "category": "Music"
+  },
+  {
+    "event_id": "E008",
+    "name": "Retro Beats",
+    "date": "2026-03-27",
+    "venue": "Club X",
+    "capacity": 120,
+    "base_price": 30,
+    "category": "Music"
+  },
+  {
+    "event_id": "E009",
+    "name": "Metal Storm",
+    "date": "2026-03-28",
+    "venue": "Industrial Arena",
+    "capacity": 400,
+    "base_price": 50,
+    "category": "Music"
+  },
+  {
+    "event_id": "E010",
+    "name": "Bollywood Night",
+    "date": "2026-03-30",
+    "venue": "Grand Theatre",
+    "capacity": 350,
+    "base_price": 45,
+    "category": "Music"
+  },
+  {
+    "event_id": "E011",
+    "name": "Football League Match",
+    "date": "2026-04-02",
+    "venue": "City Stadium",
+    "capacity": 2000,
+    "base_price": 25,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E012",
+    "name": "Cricket T20",
+    "date": "2026-04-05",
+    "venue": "County Ground",
+    "capacity": 1800,
+    "base_price": 30,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E013",
+    "name": "Basketball Finals",
+    "date": "2026-04-08",
+    "venue": "Indoor Arena",
+    "capacity": 900,
+    "base_price": 40,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E014",
+    "name": "Badminton Open",
+    "date": "2026-04-10",
+    "venue": "Sports Complex",
+    "capacity": 400,
+    "base_price": 15,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E015",
+    "name": "Marathon Run",
+    "date": "2026-04-12",
+    "venue": "City Roads",
+    "capacity": 5000,
+    "base_price": 10,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E016",
+    "name": "Boxing Championship",
+    "date": "2026-04-15",
+    "venue": "Fight Dome",
+    "capacity": 700,
+    "base_price": 60,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E017",
+    "name": "Tennis Open",
+    "date": "2026-04-18",
+    "venue": "Tennis Court",
+    "capacity": 600,
+    "base_price": 35,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E018",
+    "name": "Swimming Gala",
+    "date": "2026-04-20",
+    "venue": "Aquatic Centre",
+    "capacity": 300,
+    "base_price": 20,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E019",
+    "name": "Wrestling Showdown",
+    "date": "2026-04-22",
+    "venue": "Mega Arena",
+    "capacity": 1200,
+    "base_price": 50,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E020",
+    "name": "Formula Karting",
+    "date": "2026-04-25",
+    "venue": "Race Track",
+    "capacity": 800,
+    "base_price": 45,
+    "category": "Sports"
+  },
+  {
+    "event_id": "E021",
+    "name": "AI and ML Conference",
+    "date": "2026-05-02",
+    "venue": "Tech Hub",
+    "capacity": 400,
+    "base_price": 80,
+    "category": "Tech"
+  },
+  {
+    "event_id": "E022",
+    "name": "Cloud Computing Summit",
+    "date": "2026-05-04",
+    "venue": "Innovation Centre",
+    "capacity": 350,
+    "base_price": 75,
+    "category": "Tech"
+  },
+  {
+    "event_id": "E023",
+    "name": "Cyber Security Workshop",
+    "date": "2026-05-06",
+    "venue": "IT Lab",
+    "capacity": 120,
+    "base_price": 50,
+    "category": "Tech"
+  },
+  {
+    "event_id": "E024",
+    "name": "Blockchain Meetup",
+    "date": "2026-05-08",
+    "venue": "Startup Space",
+    "capacity": 200,
+    "base_price": 40,
+    "category": "Tech"
+  },
+  {
+    "event_id": "E025",
+    "name": "Data Science Bootcamp",
+    "date": "2026-05-10",
+    "venue": "Training Hall",
+    "capacity": 100,
+    "base_price": 90,
+    "category": "Tech"
+  },
+  {
+    "event_id": "E026",
+    "name": "Career Fair",
+    "date": "2026-05-12",
+    "venue": "Convention Centre",
+    "capacity": 1000,
+    "base_price": 0,
+    "category": "Education"
+  },
+  {
+    "event_id": "E027",
+    "name": "Research Symposium",
+    "date": "2026-05-15",
+    "venue": "University Hall",
+    "capacity": 300,
+    "base_price": 25,
+    "category": "Education"
+  },
+  {
+    "event_id": "E028",
+    "name": "Startup Pitch Day",
+    "date": "2026-05-18",
+    "venue": "Business Centre",
+    "capacity": 250,
+    "base_price": 30,
+    "category": "Business"
+  },
+  {
+    "event_id": "E029",
+    "name": "UX Design Workshop",
+    "date": "2026-05-20",
+    "venue": "Design Studio",
+    "capacity": 80,
+    "base_price": 45,
+    "category": "Tech"
+  },
+  {
+    "event_id": "E030",
+    "name": "Python Coding Marathon",
+    "date": "2026-05-22",
+    "venue": "Lab Room",
+    "capacity": 150,
+    "base_price": 35,
+    "category": "Tech"
+  },
+  {
+    "event_id": "E031",
+    "name": "Stand-up Comedy Night",
+    "date": "2026-06-01",
+    "venue": "Comedy Club",
+    "capacity": 200,
+    "base_price": 25,
+    "category": "Entertainment"
+  },
+  {
+    "event_id": "E032",
+    "name": "Drama Play",
+    "date": "2026-06-03",
+    "venue": "City Theatre",
+    "capacity": 180,
+    "base_price": 30,
+    "category": "Theatre"
+  },
+  {
+    "event_id": "E033",
+    "name": "Movie Premiere",
+    "date": "2026-06-05",
+    "venue": "Cineplex",
+    "capacity": 250,
+    "base_price": 20,
+    "category": "Entertainment"
+  },
+  {
+    "event_id": "E034",
+    "name": "Magic Show",
+    "date": "2026-06-07",
+    "venue": "Grand Hall",
+    "capacity": 298,
+    "base_price": 35,
+    "category": "Entertainment"
+  },
+  {
+    "event_id": "E035",
+    "name": "Kids Fun Fair",
+    "date": "2026-06-09",
+    "venue": "Open Park",
+    "capacity": 1000,
+    "base_price": 10,
+    "category": "Family"
+  },
+  {
+    "event_id": "E036",
+    "name": "Food Festival",
+    "date": "2026-06-12",
+    "venue": "Central Square",
+    "capacity": 1500,
+    "base_price": 5,
+    "category": "Lifestyle"
+  },
+  {
+    "event_id": "E037",
+    "name": "Art Exhibition",
+    "date": "2026-06-14",
+    "venue": "Art Gallery",
+    "capacity": 120,
+    "base_price": 15,
+    "category": "Art"
+  },
+  {
+    "event_id": "E038",
+    "name": "Photography Workshop",
+    "date": "2026-06-16",
+    "venue": "Studio 5",
+    "capacity": 60,
+    "base_price": 40,
+    "category": "Art"
+  },
+  {
+    "event_id": "E039",
+    "name": "Yoga Retreat",
+    "date": "2026-06-18",
+    "venue": "Wellness Centre",
+    "capacity": 50,
+    "base_price": 55,
+    "category": "Health"
+  },
+  {
+    "event_id": "E040",
+    "name": "Cultural Festival",
+    "date": "2026-06-20",
+    "venue": "Community Ground",
+    "capacity": 2000,
+    "base_price": 12,
+    "category": "Culture"
+  }
+]
